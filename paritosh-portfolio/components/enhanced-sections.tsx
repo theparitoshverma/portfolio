@@ -276,7 +276,7 @@ export function EnhancedSections({ skills, projects, animatedElements }: Enhance
                 title: "Email",
                 content: (  <a
       href="mailto:paritoshfgr@gmail.com"
-      className="text-blue-600 hover:underline transition-transform hover:scale-105 duration-300 inline-flex items-center gap-2"
+      className="text-white-600 hover:underline transition-transform hover:scale-105 duration-300 inline-flex items-center gap-2"
     >
       <Mail className="w-5 h-5" />
       <span>paritoshfgr@gmail.com</span>
