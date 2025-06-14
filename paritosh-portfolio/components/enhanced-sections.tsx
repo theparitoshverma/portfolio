@@ -233,15 +233,11 @@ export function EnhancedSections({ skills, projects, animatedElements }: Enhance
               >
                 <CardHeader>
                   <CardTitle className="text-lg font-semibold text-gray-800 dark:text-gray-200">
-                    <a href="/Profile.jpg" target="_blank" rel="noopener noreferrer">
+                    <a href="/" target="_blank" rel="noopener noreferrer">
   <span className="cursor-pointer text-blue-600 hover:underline">Hotstar Clone Bootcamp</span>
 </a>
 
-<img
-  src="/DevTown (Hotstar Clone).pdf?height=192&width=192"
-  alt="Paritosh Verma"
-  className="w-full h-full object-cover rounded-full hover:scale-110 transition-transform duration-500"
-/>
+
 
                   </CardTitle>
                   <CardDescription className="text-blue-600 dark:text-blue-400">
