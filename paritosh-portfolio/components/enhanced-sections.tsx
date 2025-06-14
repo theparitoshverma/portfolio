@@ -234,7 +234,7 @@ export function EnhancedSections({ skills, projects, animatedElements }: Enhance
                 <CardHeader>
                   <CardTitle className="text-lg font-semibold text-gray-800 dark:text-gray-200">
                      <a href="/DevTown (Hotstar Clone).pdf" target="_blank" rel="noopener noreferrer">
-  <span className="cursor-pointer text-blue-600 hover:underline">Hotstar Clone Bootcamp</span>
+  <span className="cursor-pointer text-black-600 hover:underline">Hotstar Clone Bootcamp </span>
 </a>
                   </CardTitle>
                   <CardDescription className="text-blue-600 dark:text-blue-400">
