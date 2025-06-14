@@ -214,8 +214,15 @@ export default function Portfolio() {
                   size="lg"
                   className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white px-8 py-3 hover:scale-105 transition-all duration-300 animate-glow"
                 >
-                  <Download className="w-5 h-5 mr-2" />
-                  Download Resume
+<a
+  href="/resume.pdf" 
+  download
+  className="inline-flex items-center bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white px-8 py-3 rounded-lg hover:scale-105 transition-all duration-300 animate-glow"
+>
+  <Download className="w-5 h-5 mr-2" />
+  Download Resume
+</a>
+
                 </Button>
                 <div className="flex gap-4">
                   <Button variant="outline" size="lg" asChild className="hover:scale-105 transition-all duration-300">
@@ -238,8 +245,14 @@ export default function Portfolio() {
                 style={{ animationDelay: "1.2s" }}
               >
                 <div className="flex items-center gap-2 hover:scale-105 transition-transform duration-300">
-                  <Mail className="w-5 h-5" />
-                  <span>paritoshfgr@gmail.com</span>
+                  <a
+  href="mailto:paritoshfgr@gmail.com"
+  className="flex items-center gap-2 hover:scale-105 transition-transform duration-300 text-blue-600 hover:underline"
+>
+  <Mail className="w-5 h-5" />
+  <span>paritoshfgr@gmail.com</span>
+</a>
+
                 </div>
                 <div className="flex items-center gap-2 hover:scale-105 transition-transform duration-300">
                   <Phone className="w-5 h-5" />
