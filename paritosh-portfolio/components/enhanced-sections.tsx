@@ -233,7 +233,9 @@ export function EnhancedSections({ skills, projects, animatedElements }: Enhance
               >
                 <CardHeader>
                   <CardTitle className="text-lg font-semibold text-gray-800 dark:text-gray-200">
-                    Hotstar Clone Bootcamp
+                     <a href="/" target="_blank" rel="noopener noreferrer">
+  <span className="cursor-pointer text-blue-600 hover:underline">Hotstar Clone Bootcamp</span>
+</a>
                   </CardTitle>
                   <CardDescription className="text-blue-600 dark:text-blue-400">
                     Certified by Google, Microsoft, DevTown & Amazon
