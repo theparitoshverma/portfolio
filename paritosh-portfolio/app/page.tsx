@@ -176,7 +176,7 @@ export default function Portfolio() {
                 <div className="w-48 h-48 mx-auto rounded-full bg-gradient-to-r from-blue-500 to-purple-600 p-1 animate-spin-slow">
                   <div className="w-full h-full rounded-full bg-gray-200 dark:bg-gray-700 flex items-center justify-center overflow-hidden animate-float">
                     <img
-                      src="/placeholder.svg?height=192&width=192"
+                      src="/Profile.jpg?height=192&width=192"
                       alt="Paritosh Verma"
                       className="w-full h-full object-cover rounded-full hover:scale-110 transition-transform duration-500"
                     />
@@ -219,13 +219,13 @@ export default function Portfolio() {
                 </Button>
                 <div className="flex gap-4">
                   <Button variant="outline" size="lg" asChild className="hover:scale-105 transition-all duration-300">
-                    <a href="https://github.com/paritoshverma" target="_blank" rel="noopener noreferrer">
+                    <a href="https://github.com/theparitoshverma" target="_blank" rel="noopener noreferrer">
                       <Github className="w-5 h-5 mr-2" />
                       GitHub
                     </a>
                   </Button>
                   <Button variant="outline" size="lg" asChild className="hover:scale-105 transition-all duration-300">
-                    <a href="https://linkedin.com/in/paritoshverma" target="_blank" rel="noopener noreferrer">
+                    <a href="https://linkedin.com/in/paritosh-verma-b18564226" target="_blank" rel="noopener noreferrer">
                       <Linkedin className="w-5 h-5 mr-2" />
                       LinkedIn
                     </a>
@@ -247,7 +247,7 @@ export default function Portfolio() {
                 </div>
                 <div className="flex items-center gap-2 hover:scale-105 transition-transform duration-300">
                   <MapPin className="w-5 h-5" />
-                  <span>Ghaziabad, India</span>
+                  <span>Noida, India</span>
                 </div>
               </div>
             </div>
@@ -288,13 +288,13 @@ export default function Portfolio() {
               <div className="grid grid-cols-2 gap-6 pt-6">
                 <div className="text-center transform hover:scale-110 transition-transform duration-300">
                   <div className="text-3xl font-bold text-blue-600 mb-2 animate-counter" data-target="6">
-                    0
+                    6
                   </div>
                   <div className="text-gray-600 dark:text-gray-400">Months Experience</div>
                 </div>
                 <div className="text-center transform hover:scale-110 transition-transform duration-300">
                   <div className="text-3xl font-bold text-purple-600 mb-2 animate-counter" data-target="10">
-                    0
+                    4
                   </div>
                   <div className="text-gray-600 dark:text-gray-400">Projects Completed</div>
                 </div>
