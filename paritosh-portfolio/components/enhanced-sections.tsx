@@ -274,7 +274,13 @@ export function EnhancedSections({ skills, projects, animatedElements }: Enhance
               {
                 icon: <Mail className="w-12 h-12 mx-auto mb-4 text-blue-400" />,
                 title: "Email",
-                content: "paritoshfgr@gmail.com",
+                content: (  <a
+      href="mailto:paritoshfgr@gmail.com"
+      className="text-blue-600 hover:underline transition-transform hover:scale-105 duration-300 inline-flex items-center gap-2"
+    >
+      <Mail className="w-5 h-5" />
+      <span>paritoshfgr@gmail.com</span>
+    </a>),
               },
               {
                 icon: <Phone className="w-12 h-12 mx-auto mb-4 text-purple-400" />,
