@@ -215,7 +215,7 @@ export default function Portfolio() {
                   className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white px-8 py-3 hover:scale-105 transition-all duration-300 animate-glow"
                 >
 <a
-  href="/resume.pdf" 
+  href="/Paritosh Verma Resume.pdf" 
   download
   className="inline-flex items-center bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white px-8 py-3 rounded-lg hover:scale-105 transition-all duration-300 animate-glow"
 >
