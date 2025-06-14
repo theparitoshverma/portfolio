@@ -344,7 +344,7 @@ export default function Portfolio() {
       <footer className="py-8 px-4 sm:px-6 lg:px-8 bg-gray-900 dark:bg-black text-white transition-all duration-500">
         <div className="max-w-7xl mx-auto text-center">
           <p className="text-gray-400 dark:text-gray-500 animate-fade-in-up">
-            © 2024 Paritosh Verma. All rights reserved. Built with Next.js and Tailwind CSS.
+            © 2024 Paritosh Verma. All rights reserved.
           </p>
         </div>
       </footer>
