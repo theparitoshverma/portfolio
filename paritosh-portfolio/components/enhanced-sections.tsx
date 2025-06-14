@@ -235,7 +235,7 @@ export function EnhancedSections({ skills, projects, animatedElements }: Enhance
                   <CardTitle className="text-lg font-semibold text-gray-800 dark:text-gray-200">
                     Hotstar Clone Bootcamp
                   </CardTitle>
-                  <CardDescription className="text-purple-600 dark:text-purple-400">
+                  <CardDescription className="text-blue-600 dark:text-blue-400">
                     Certified by Google, Microsoft, DevTown & Amazon
                   </CardDescription>
                 </CardHeader>
