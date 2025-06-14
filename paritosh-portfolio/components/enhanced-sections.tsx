@@ -238,7 +238,7 @@ export function EnhancedSections({ skills, projects, animatedElements }: Enhance
 </a>
 
 <img
-  src="/.jpg?height=192&width=192"
+  src="/DevTown (Hotstar Clone).pdf?height=192&width=192"
   alt="Paritosh Verma"
   className="w-full h-full object-cover rounded-full hover:scale-110 transition-transform duration-500"
 />
