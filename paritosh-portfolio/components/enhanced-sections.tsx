@@ -89,7 +89,7 @@ export function EnhancedSections({ skills, projects, animatedElements }: Enhance
             >
               <div className="flex flex-col md:flex-row md:items-center md:justify-between mb-6">
                 <div>
-                  <h3 className="text-2xl font-bold text-gray-800 dark:text-gray-200 mb-2">Data Analyst Intern</h3>
+                  <h3 className="text-2xl font-bold text-gray-800 dark:text-gray-200 mb-2">Web Developer Intern</h3>
                   <p className="text-xl text-blue-600 dark:text-blue-400 font-semibold">CodeClause</p>
                 </div>
                 <div className="text-gray-600 dark:text-gray-400 font-medium">May 2023 - June 2023</div>
@@ -98,7 +98,7 @@ export function EnhancedSections({ skills, projects, animatedElements }: Enhance
               <div className="space-y-4">
                 {[
                   "Developed interactive data dashboards using HTML, CSS, and JavaScript to present analytical insights",
-                  "Utilized front-end technologies to enhance data visualization and user interface",
+                  "Utilized front-end technologies to enhance data visualization and user interface.",
                   "Strengthened skills in data communication, visualization, and web-based analytical tools",
                 ].map((point, index) => (
                   <div
