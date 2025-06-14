@@ -233,12 +233,7 @@ export function EnhancedSections({ skills, projects, animatedElements }: Enhance
               >
                 <CardHeader>
                   <CardTitle className="text-lg font-semibold text-gray-800 dark:text-gray-200">
-                    <a href="/DevTown (Hotstar Clone).pdf" target="_blank" rel="noopener noreferrer">
-  <span className="cursor-pointer text-blue-600 hover:underline">Hotstar Clone Bootcamp</span>
-</a>
-
-
-
+                    Hotstar Clone Bootcamp
                   </CardTitle>
                   <CardDescription className="text-blue-600 dark:text-blue-400">
                     Certified by Google, Microsoft, DevTown & Amazon
@@ -287,7 +282,7 @@ export function EnhancedSections({ skills, projects, animatedElements }: Enhance
               {
                 icon: <MapPin className="w-12 h-12 mx-auto mb-4 text-green-400" />,
                 title: "Location",
-                content: "Ghaziabad, India",
+                content: "Noida, India",
               },
             ].map((item, index) => (
               <Card
@@ -313,7 +308,7 @@ export function EnhancedSections({ skills, projects, animatedElements }: Enhance
                 className="bg-white/10 border-white/20 text-white hover:bg-white/20 hover:scale-105 transition-all duration-300"
                 asChild
               >
-                <a href="https://github.com/paritoshverma" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/theparitoshverma" target="_blank" rel="noopener noreferrer">
                   <Github className="w-5 h-5 mr-2" />
                   GitHub
                 </a>
@@ -324,7 +319,7 @@ export function EnhancedSections({ skills, projects, animatedElements }: Enhance
                 className="bg-white/10 border-white/20 text-white hover:bg-white/20 hover:scale-105 transition-all duration-300"
                 asChild
               >
-                <a href="https://linkedin.com/in/paritoshverma" target="_blank" rel="noopener noreferrer">
+                <a href="https://linkedin.com/in/paritosh-verma-b18564226" target="_blank" rel="noopener noreferrer">
                   <Linkedin className="w-5 h-5 mr-2" />
                   LinkedIn
                 </a>
